@@ -427,3 +427,21 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+## ---------------------------------------------------------------------------
+## Android / Gradle
+## ---------------------------------------------------------------------------
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+**/build/
+**/*.apk
+**/*.aab
+
